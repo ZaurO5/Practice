@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Practice\Course\bin\Debug\net8.0\Course.exe
+C:\Users\User\source\repos\Practice\Course\bin\Debug\net8.0\Course.deps.json
+C:\Users\User\source\repos\Practice\Course\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\Users\User\source\repos\Practice\Course\bin\Debug\net8.0\Course.dll
+C:\Users\User\source\repos\Practice\Course\bin\Debug\net8.0\Course.pdb
+C:\Users\User\source\repos\Practice\Course\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Practice\Course\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Practice\Course\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\Users\User\source\repos\Practice\Course\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Practice\Course\obj\Debug\net8.0\Course.dll
+C:\Users\User\source\repos\Practice\Course\obj\Debug\net8.0\refint\Course.dll
+C:\Users\User\source\repos\Practice\Course\obj\Debug\net8.0\Course.pdb
+C:\Users\User\source\repos\Practice\Course\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\Users\User\source\repos\Practice\Course\obj\Debug\net8.0\ref\Course.dll
